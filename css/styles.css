@@ -23,8 +23,7 @@ body {
 .stack {
     position: relative;
     top: 33%;
-    background: url(imgs/h_img.jpg);
-
+background-image: url(imgs/h_img.jpg);
 }
 
 .stack {
